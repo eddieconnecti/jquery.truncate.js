@@ -1,6 +1,6 @@
 /** 
  * jQuery Truncate
- * Copyright 2015 K. Feldmaier (eddieconnecti@googlemail.com)
+ * Copyright 2015 Kai Feldmaier (kai.feldmaier@gmail.com)
  * Licensed under MIT (http://opensource.org/licenses/MIT)
  */
 ( function( $ ) {
